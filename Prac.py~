@@ -1,7 +1,0 @@
-name = input("Enter name: ")
-
-try:
-    age = int(input("Enter age: "))
-    
-except:
-    print("Error")
